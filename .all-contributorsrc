@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sbvkrishna",
+      "name": "Bala Vijaya Krishna Saladi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/37334979?s=460&v=4",
+      "profile": "http://sbvkrishna.github.io",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "openrank-execution",
+  "projectOwner": "coderplex",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
